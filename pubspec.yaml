@@ -52,7 +52,7 @@ dev_dependencies:
   mockito: ^5.4.4
   http_mock_adapter: ^0.6.1
   pretty_dio_logger: ^1.4.0
-
+  bloc_test: ^9.1.7
 
   flutter_lints: ^4.0.0
 

@@ -11,7 +11,7 @@ import 'package:kib_challenge/features/currency_converter/domain/use_cases/conve
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
-import '../core/base_mock.dart';
+import '../../core/base_mock.dart';
 import 'convert_currency.mocks.dart';
 
 class ConverterRemoteDataSourceTest extends BaseMockClass {}

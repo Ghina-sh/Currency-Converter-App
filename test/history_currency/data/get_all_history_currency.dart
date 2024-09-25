@@ -11,7 +11,7 @@ import 'package:kib_challenge/features/history_currency/domain/use_cases/get_his
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
-import '../core/base_mock.dart';
+import '../../core/base_mock.dart';
 import 'get_all_history_currency.mocks.dart';
 
 class HistoryCurrencyRemoteDataSourceTest extends BaseMockClass {}

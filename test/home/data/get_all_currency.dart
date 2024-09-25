@@ -10,7 +10,7 @@ import 'package:kib_challenge/features/home/data/repositories/home_repository_im
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
-import '../core/base_mock.dart';
+import '../../core/base_mock.dart';
 import 'get_all_currency.mocks.dart';
 
 class HomeRemoteDataSourceTest extends BaseMockClass {}
